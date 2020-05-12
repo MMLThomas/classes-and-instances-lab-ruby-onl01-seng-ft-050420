@@ -1,5 +1,5 @@
 class Dog 
+  snoopy.Dog
   
 end
 
-snoopy.Dog
